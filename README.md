@@ -1,6 +1,12 @@
-I've done this repo to show some important stuff about setState() in React.
+### variations-in-set-state
 
-You can read my article "Get Pro with React setState in 10 minutes in [Medium](https://medium.com/@evedes/get-pro-with-react-setstate-in-10-minutes-d38251d1c781)
+Read the article
+
+[How to become a pro with React setState() in 10 minutes](https://medium.freecodecamp.org/get-pro-with-react-setstate-in-10-minutes-d38251d1c781)
+
+![Alt text](/img/preview.png?raw=true "Optional Title")
+
+
 
 And check the live example working in [Glitch](https://freezing-transport.glitch.me/)
 
